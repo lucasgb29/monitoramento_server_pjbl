@@ -1,0 +1,31 @@
+services:
+  monitor-web:
+    build: .
+    container_name: monitor-disponibilidade-scf
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
+    networks:
+      - rede-scf
+
+  cliente-teste-1:
+    image: python:3.12-slim
+    container_name: cliente-teste-1
+    command: ["sleep", "infinity"]
+    depends_on:
+      - monitor-web
+    networks:
+      - rede-scf
+
+  cliente-teste-2:
+    image: python:3.12-slim
+    container_name: cliente-teste-2
+    command: ["sleep", "infinity"]
+    depends_on:
+      - monitor-web
+    networks:
+      - rede-scf
+
+networks:
+  rede-scf:
+    driver: bridge
