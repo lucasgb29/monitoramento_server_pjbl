@@ -8,7 +8,6 @@ from urllib.request import urlopen
 from flask import Flask, render_template_string, request, redirect, url_for, session, flash
 
 app = Flask(__name__)
-app.secret_key = "sua_chave_secreta_aqui_para_sessao"
 
 # Configurações de E-mail (Substitua pelos dados reais para testes)
 # Dica: Se usar o Gmail, utilize uma "Senha de App" (App Password)

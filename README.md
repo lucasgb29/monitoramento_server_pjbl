@@ -9,10 +9,10 @@
 
 ## 1. Identificação da Equipe
 
-- **Integrante 1:** [Nome Completo] — Matrícula: [00000000]
+- **Integrante 1:** Lucas Gomes Bernardino — Matrícula: [00000000]
 - **Integrante 2:** [Nome Completo] — Matrícula: [00000000]
 - **Integrante 3:** [Nome Completo] — Matrícula: [00000000]
-- **Integrante 4:** [Nome Completo] — Matrícula: [00000000]
+
 
 ---
 
