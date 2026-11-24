@@ -9,8 +9,7 @@ from flask import Flask, render_template_string, request, redirect, url_for, ses
 
 app = Flask(__name__)
 
-# Configurações de E-mail (Substitua pelos dados reais para testes)
-# Dica: Se usar o Gmail, utilize uma "Senha de App" (App Password)
+# Configurações de E-mail 
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_REMETENTE = "ciberfisicatrabalho@gmail.com"
