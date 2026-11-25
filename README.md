@@ -1,4 +1,4 @@
-# Monitor de Disponibilidade de Serviços (Projeto 6)
+# Monitor de Disponibilidade de Serviços
 
 **Disciplina:** PSI129A - Conectividade em Sistemas Ciberfísicos  
 **Curso:** Bacharelado em Ciência da Computação — Escola Politécnica / PUCPR (Curitiba)  
