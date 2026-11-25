@@ -9,11 +9,11 @@
 
 ## 1. Identificação da Equipe e Links
 
-- **Integrante 1:** Lucas Gomes Bernardino — Matrícula: `[Inserir Matrícula]`
-- **Integrante 2:** Guilherme Filipak Retamero — Matrícula: `[Inserir Matrícula]`
-- **Integrante 3:** Leticia Souza de Oliveira — Matrícula: `[Inserir Matrícula]`
-- **Link do Vídeo de Demonstração (até 10 min):** `[Inserir URL do Vídeo]`
-- **Link do Repositório (GitHub / GitLab):** `[Inserir URL do Repositório]`
+- **Integrante 1:** Lucas Gomes Bernardino
+- **Integrante 2:** Guilherme Filipak Retamero 
+- **Integrante 3:** Leticia Souza de Oliveira 
+- **Link do Vídeo de Demonstração (até 10 min):** `https://www.youtube.com/watch?v=0_HDkR3rcMo`
+- **Link do Repositório (GitHub / GitLab):** `https://github.com/lucasgb29/monitoramento_server_pjbl`
 
 ---
 
